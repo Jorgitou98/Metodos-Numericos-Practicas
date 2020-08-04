@@ -1,5 +1,5 @@
 ## Métodos numéricos implementados
-Este repositorio consta de distintos métodos numéricos de cálculo y aproximación implementados en ***Matlab***. Esto métodos se agrupan como:
+Este repositorio consta de distintos métodos numéricos de cálculo y aproximación implementados en ***Matlab***. Estos métodos se agrupan como:
 
  -  Métodos para resolver **sistemas de ecuaciones** o aproximar su solución.
 	 - [Método tridiagonal](https://github.com/Jorgitou98/Metodos-Numericos-Practicas/blob/master/M%C3%A9todo%20tridiagonal/tridiagonal.m) (Sólo para matrices tridiagonales)
